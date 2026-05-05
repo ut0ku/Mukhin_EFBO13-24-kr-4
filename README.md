@@ -21,7 +21,6 @@
 <img width="709" height="441" alt="image_2026-04-28_17-36-11 (3)" src="https://github.com/user-attachments/assets/541c01c5-04e8-4cb8-bb82-c62b3fa6415c" />
 
 Тест успешного (GET) /trigger-b/{item_id} (status 200)
-<img width="711" height="432" alt="image_2026-04-28_17-36-12" src="https://github.com/user-attachments/assets/7e08ba54-370a-46cb-8ffe-b3c765c45284" />
 <img width="711" height="432" alt="image_2026-04-28_17-36-12" src="https://github.com/user-attachments/assets/102b2c6b-b9af-43f3-a1dc-a79e088add34" />
 
 Задание 10.2
